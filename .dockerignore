@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pth
+.cache/
+FasterRCNN_Treinamentos_*/
+README.md
